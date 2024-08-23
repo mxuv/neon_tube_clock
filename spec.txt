@@ -1,0 +1,10 @@
+pinout
+    10  numbers
+    6   tubes
+    2   usart
+    1   ws2812
+    1   buzzer
+    3   buttons
+    2   i2c???
+    2   lse crystal
+    2   SWD
